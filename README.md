@@ -3,7 +3,7 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>○○の開発者サイト</title>
+  <title>京阪抹茶の開発者サイト</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
